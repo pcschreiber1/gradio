@@ -1,5 +1,11 @@
 # gradio
 
+## 5.22.1
+
+### Features
+
+- [#10838](https://github.com/gradio-app/gradio/pull/10838) [`a06c7e4`](https://github.com/gradio-app/gradio/commit/a06c7e40e2ddb5c526c195d31832f6e97b669291) - Allow for iterative coding in gradio sketch.  Thanks @aliabid94!
+
 ## 5.22.0
 
 ### Features
